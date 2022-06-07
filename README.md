@@ -1,7 +1,7 @@
-![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/270219189_1060654764787459_4294132065929875420_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEvRC46nboqd3kSP075L5bh--uqWLB0Jd_766pYsHQl3xhaV-P5drtSzErWQIXlhpocTwDRU17lE1awCLn70JGy&_nc_ohc=mqzxvVmtJOQAX80zu4U&tn=8N_oNSFcCSJmbtXP&_nc_ht=scontent.fdac14-1.fna&oh=00_AT_tGsyttwy7VICl_C-qG03fwH--QRKHbj-Wh0a8AoadKQ&oe=62A47F3D)
+![Web Developer](https://lh3.googleusercontent.com/a-/AOh14Ggy6akUz8PphnlEND0Y7GsaaW_KZU7TtqVoYm0G=s96-c-rg-br100)
 
-### Hi there 👋, my name is Zohirul
-#### Web Developer
+## Hi there 👋, my name is Zohirul
+### Web Developer
 
 
 I’m Zohirul Islam from Rajbari in Bangladesh. As a professional Full Stack Web Developer. I have been working as a Web Developer over the last 2 years. Basically I’m working Web Design & Development, Responsive Design, SEO(Search Engine Optimization) and WordPress Customization.
@@ -19,4 +19,4 @@ Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js / React Rou
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/zohirul22)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/zohirul22)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/zohirul22)    
