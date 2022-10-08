@@ -6,7 +6,7 @@
 
 I’m Zohirul Islam from Rajbari in Bangladesh. As a professional Full Stack Web Developer. I have been working as a Web Developer over the last 2 years. Basically I’m working Web Design & Development, Responsive Design.
 
-Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js / Node.js / Es6 / React Router / React hook form / React bootstrap / React-firebase-hooks / React-firebase / DataBase / MongoDB /React Nativ / 
+Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js  / Es6 / React Router / React hook form / React bootstrap / React-firebase-hooks / React-firebase / Node.js /  DataBase / MongoDB /React Nativ / 
 
 - 🔭 I’m currently working on Programming hero 
 - 🌱 I’m currently learning Javascript 
