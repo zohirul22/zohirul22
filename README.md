@@ -4,7 +4,7 @@
 ### Web Developer
 
 
-I am a passionate computer student.I have been working as a Web Developer over the last 2 years. Basically I’m working Web Design & Development, Responsive Design.I am improving my web development skills. Every day I want to learn something new and share my knowledge with my programmer frinds and others.
+I am a passionate computer student.I love to spend time on problem solving with JavaScript and React.Innovative, task-driven professionals with 2+ years of experience in web design and development across diverse industries, creating user, interface, writing and testing codes, troubleshooting simple/complex issues,and implementing new features based on user feedback I am improving my web development skills. Every day I want to learn something new and share my knowledge with my programmer frinds and others.
 
 Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js  / Es6 / React Router / React hook form / React bootstrap / React-firebase-hooks / React-firebase / Node.js /  DataBase / MongoDB /React Nativ / 
 
