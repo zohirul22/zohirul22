@@ -1,10 +1,10 @@
 ![Web Developer](https://lh3.googleusercontent.com/a-/AOh14Ggy6akUz8PphnlEND0Y7GsaaW_KZU7TtqVoYm0G=s96-c-rg-br100)
 
-## Hi there 👋, my name is Zohirul
+## Hi there 👋, I'am Zohirul Islam
 ### Web Developer
 
 
-I’m Zohirul Islam from Rajbari in Bangladesh. As a professional Full Stack Web Developer. I have been working as a Web Developer over the last 2 years. Basically I’m working Web Design & Development, Responsive Design.
+I am a passionate computer student.I have been working as a Web Developer over the last 2 years. Basically I’m working Web Design & Development, Responsive Design.I am improving my web development skills. Every day I want to learn something new and share my knowledge with my programmer frinds and others.
 
 Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js  / Es6 / React Router / React hook form / React bootstrap / React-firebase-hooks / React-firebase / Node.js /  DataBase / MongoDB /React Nativ / 
 
