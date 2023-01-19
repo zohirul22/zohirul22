@@ -19,4 +19,4 @@ Skills: Html / Css / Bootstrap / Tailwindcss / Javascript / React Js  / Es6 / Re
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/zohirul22)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/zohirul22)    
+![Profile views]()    
