@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/W5BwHDg/192-168-0-103-5500-index-html.png))
+![Web Developer](https://i.ibb.co/W5BwHDg/192-168-0-103-5500-index-html.png)
 
 ## Hi there 👋, I'am Zohirul Islam
 ### Web Developer
