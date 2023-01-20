@@ -1,4 +1,4 @@
-![Web Developer](https://lh3.googleusercontent.com/a-/AOh14Ggy6akUz8PphnlEND0Y7GsaaW_KZU7TtqVoYm0G=s96-c-rg-br100)
+![Web Developer](https://i.ibb.co/W5BwHDg/192-168-0-103-5500-index-html.png))
 
 ## Hi there 👋, I'am Zohirul Islam
 ### Web Developer
